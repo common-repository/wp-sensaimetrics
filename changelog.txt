@@ -1,0 +1,34 @@
+*** Sensaimetrics Changelog ***
+
+2020-02-11 - version 1.2.7
+* Update at leats WordPress version
+
+2020-02-11 - version 1.2.6
+* Change commit message
+
+2020-02-11 - version 1.2.5
+* Bugfix in cart hash
+
+2019-06-20 - version 1.2.3
+* Change order tracking method
+
+2018-12-17 - version 1.2.2
+* Add shipping and billing details
+
+2018-12-04 - version 1.1.2
+* Fix url
+
+2018-12-04 - version 1.1.1
+* Delete nested product_page
+
+2018-12-03 - version 1.1.0
+* Product pages added
+
+2018-11-26 - version 1.0.2
+* Product slug and url added
+
+2018-11-02 - version 1.0.1
+* Coupon tracking added
+
+2018-10-10 - version 1.0.0
+* Initial Release
